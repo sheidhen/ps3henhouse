@@ -1,0 +1,12 @@
+{
+    "public": "public",
+    "headers": [
+        {
+          "source" : "*.P3T",
+          "headers" : [{
+            "key" : "Content-Type",
+            "value" : "application/octet-stream"
+          }]
+        }
+    ]
+}
