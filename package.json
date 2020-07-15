@@ -1,13 +1,17 @@
 {
-  "name": "ps3hen",
+  "name": "ps3henhouse",
   "version": "3.0.1",
-  "description": "",
-  "main": "index.js",
+  "description": "PS3HENhouse - host your own chickens!",
+  "homepage": "https://github.com/sheidhen/ps3henhouse#readme",
+  "main": "serve.json",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "serve"
   },
-  "author": "",
+  "author": "anonymous?",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/sheidhen/ps3henhouse.git"
+  },
   "license": "ISC",
   "dependencies": {
     "serve": "^11.3.2"
