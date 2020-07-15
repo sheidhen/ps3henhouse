@@ -9,8 +9,8 @@
   },
   "author": "anonymous?",
   "repository": {
-    "type" : "git",
-    "url" : "https://github.com/sheidhen/ps3henhouse.git"
+    "type": "git",
+    "url": "https://github.com/sheidhen/ps3henhouse.git"
   },
   "license": "ISC",
   "dependencies": {

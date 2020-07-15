@@ -4,7 +4,7 @@
 
 ## Compatible with 4.84, 4.85, and 4.86 HFW ONLY
 
-> PS3HENhouse is an unauthorized way to self-host PS3HEN. Don't go harass the ps3xploit folk about it.
+> PS3HENhouse is an unauthorized way to self-host ps3xploit's [PS3HEN](https://ps3xploit.com/). Don't go harass the ps3xploit folk about it. It uses [lmn7](https://www.psx-place.com/members/31541/)'s Auto Hen Installer. 
 
 ## What Is HEN:
 
@@ -14,9 +14,11 @@
 
 PS3HENhouse is a way to self-host the **PS3HEN** exploit, for times when the official link is down.
 
+Thank you to [Coro](https://www.psx-place.com/members/coro.45940/) and [lmn7](https://www.psx-place.com/members/31541/) from the [PSX-PLACE forums](https://www.psx-place.com) for their work, and to the whole ps3xploit team for PS3HEN in the first place!
+
 ## How do I use it?
 
-Follow this tutorial by Coro:
+Follow this tutorial by [Coro](https://www.psx-place.com/members/coro.45940/):
 [(NEW) Auto HEN Installer & OFFLINE Guide](https://www.psx-place.com/threads/new-auto-hen-installer-offline-guide.30400/)
 
 When part 2 asks you to _start your webserver_, do this bit below:
@@ -54,5 +56,8 @@ Kill this process when done.
 ## Random links
 
 [PS3HEN @ GitHub](https://github.com/PS3Xploit/PS3HEN)
+
 [PSX-PLACE:: [UPDATE-4.86] PS3HEN v3.0.1 - View latest changes to the PS3 Exploit for SuperSlims & nonCFW models](https://www.psx-place.com/threads/update-4-86-ps3hen-v3-0-1-view-latest-changes-to-the-ps3-exploit-for-superslims-noncfw-models.23955/)
+
 [PSX-PLACE:: (NEW) Auto HEN Installer & OFFLINE Guide](https://www.psx-place.com/threads/new-auto-hen-installer-offline-guide.30400/)
+
